@@ -197,7 +197,7 @@ p {
     letter-spacing: 8pt;
     line-height: 40pt;
     font-weight: 300;
-    color: #fff;
+    color: #000000;
 }
 
 /******** NAVIGATION SECTION START ********/
@@ -213,7 +213,7 @@ p {
     font-weight: 700;
     font-size: 16pt;
     letter-spacing: 4pt;
-    color: #fff;
+    color: #ffffff;
     padding-bottom: 15px;
 } 
  
